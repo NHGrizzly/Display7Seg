@@ -3,6 +3,7 @@
 # Revision History
 /db
 /incremental_db
+*.bak
 
 # setup resources
 /devkits
