@@ -1,0 +1,21 @@
+## Quartus Prime .gitignore
+
+# Revision History
+/db
+/incremental_db
+
+# setup resources
+/devkits
+
+# generated files
+*.cdf
+*.done
+*.jdi
+*.pin
+*.qsf
+*.rpt
+*.smsg
+*.sld
+*.sof
+*.summary
+*.txt
