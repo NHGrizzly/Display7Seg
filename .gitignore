@@ -13,6 +13,7 @@
 *.jdi
 *.pin
 *.qsf
+*.qws
 *.rpt
 *.smsg
 *.sld
